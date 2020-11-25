@@ -5,7 +5,7 @@
 
 <h2><b>ABOUT THE PROJECT</b></h3>
 
-This is a quiz made using Python programming language and mysql connector(for Highscore tables and Personal improvement table)
+This is a quiz made using Python programming language and MySQL connector(for Highscore tables and Personal improvement table)
 It consists of 3 levels.
 
 <h2 align="center">Level 1
